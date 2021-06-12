@@ -1,1 +1,1 @@
-# skku
+# Sungkyunkwan University, Smart Factory Convergence Lab
